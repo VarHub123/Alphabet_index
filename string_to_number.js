@@ -9,5 +9,5 @@ let alpha =(txt)=>{
 		console.log(`Numrical value of ${splitString[i]} is ${newIndex}`)
 	}
 }
-let newValue = prompt("Please Enter only string")
+let newValue = prompt("Please Enter only Character")
 alpha(newValue);
